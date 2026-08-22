@@ -1,0 +1,8 @@
+{
+  "name": "infra-core",
+  "version": "2.4.1",
+  "description": "Infraestrutura compartilhada: PostgreSQL, autenticacao e health checks",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
